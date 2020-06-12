@@ -1,0 +1,48 @@
+#main{
+    font-family:Didot, serif;
+    line-height:25px;
+  }
+  #title{
+    font-family:American Typewriter, sans-serif;
+    font-size:50px;
+    color:#FF2400;
+    text-align:center;
+  }
+  #img-div{
+    width:200px;
+    border-color:#FF2400;
+    border-radius:20px;
+    border-width:5px;
+    border-style:dotted;
+    text-align:center;
+    display:block;
+    margin:auto;  
+  }
+  #img-caption{
+    color:#FF2400;
+    font-size:20px;
+    text-align:center;
+  }
+  #tribute-info{
+    background-color:silver;
+    text-align:center;
+  }
+   a:link {
+     color: #0645AD;
+        }
+   a:visited {
+     color: #8ebf42;
+        }
+   a:hover {
+      color: #FF2400;
+        }
+   a:active {
+      color: #800000;
+  }
+     #ul {
+    text-align: center;
+    list-style: inside;
+  }
+  
+  
+  
