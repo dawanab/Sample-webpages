@@ -1,0 +1,42 @@
+.title {
+    font-family: Helvetica, sans-serif, Arial;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(/images/pattern.webp);
+}
+
+.bar {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+#company-name {
+    background-image: url(/images/pattern.webp);
+  
+}
+
+.prices {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+h5 {
+    font-size: 20px;
+}
